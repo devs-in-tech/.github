@@ -1,11 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
+<div align="center">
+
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello everyone!!! Welcome to the community.
 <!-- ![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png) -->
 
-# **Open Source Community**
+
+    
+<h1>OpenSourceCommunity</h1>
+
+<h2>Collaboration 1st, Code 2nd! </h2>
+
+<!-- <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" /> -->
+
 
 Welcome to Open Source Community where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
+</div>
 
-<p align="left">
+<p align="center">
 <a href="mailto:deysusmita883@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -27,6 +37,9 @@ Welcome to Open Source Community where anyone interested in contributing and add
 <a href="https://www.youtube.com/channel/UCsuzc8lqAbgUYo4yzpjtfSw?sub_confirmation=1" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+  
+<!-- </div> -->
+
 <br />
 
 # Community Support
