@@ -3,7 +3,7 @@
 
 # **Open Source Community**
 
-Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
+Welcome to Open Source Community where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
 
 <p align="left">
 <a href="mailto:deysusmita883@gmail.com" style="text-decoration:none">
