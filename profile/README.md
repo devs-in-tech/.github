@@ -9,7 +9,7 @@
 
 <h2>Collaboration 1st, Code 2nd! </h2>
 
- ![brand_logo](https://user-images.githubusercontent.com/79099734/153739848-7b930dc8-4429-4137-a416-c65ae95ede9c.png)
+ <img height="300" src="https://user-images.githubusercontent.com/79099734/153739848-7b930dc8-4429-4137-a416-c65ae95ede9c.png">
  
 <!-- <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" /> -->
 
@@ -72,7 +72,7 @@ Welcome to Open Source Community where anyone interested in contributing and add
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/65373279/133414458-d76d47b4-1c96-439c-aff9-41a16a93ef9b.png"> <br>
+> <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/79099734/154270649-673493ee-0dfb-4025-947c-e2c3a92f20d9.png"> <br>
   
 ## Socials
 
