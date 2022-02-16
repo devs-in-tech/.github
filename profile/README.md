@@ -64,7 +64,7 @@ Welcome to Open Source Community where anyone interested in contributing and add
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/opensourcecommunity-hub/people) : <br>
 >   
-> <img width="221" alt="people" src="https://user-images.githubusercontent.com/65373279/133414355-a2605bc5-a4c4-4283-aa56-6ab8d1643c15.PNG"> <br>
+> <img width="222" alt="people" src="https://user-images.githubusercontent.com/79099734/154269777-92c063af-c60f-4104-81c0-0e4880644127.png"> <br>
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
