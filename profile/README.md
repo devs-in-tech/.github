@@ -15,6 +15,10 @@
 
 
 Welcome to Open Source Community where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
+ 
+ <p align="center"> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
+
+<h2 align="center"> This is a place welcome to all!🥳</h2>
 </div>
 
 <p align="center">
