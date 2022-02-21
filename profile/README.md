@@ -52,7 +52,7 @@ Welcome to Open Source Community where anyone interested in contributing and add
 
 > Raise an issue to join the **Open Source Community** GitHub Community.
 
-### How can I join the Design and Code GitHub community?
+### How can I join the OpenSourceCommunity GitHub community?
 
 > 1. Go to the issues tab [here](https://github.com/opensourcecommunity-hub/join-the-community/issues/).
 >   
