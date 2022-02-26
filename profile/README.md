@@ -5,7 +5,7 @@
 
 
     
-<h1>OpenSourceCommunity</h1>
+<h1>OpenSourceHub</h1>
 
 <h2>Collaboration 1st, Code 2nd! </h2>
 
@@ -14,7 +14,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" /> -->
 
 
-Welcome to Open Source Community where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
+Welcome to OpenSourceHub where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
  
  <p align="center"> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
 
@@ -50,9 +50,9 @@ Welcome to Open Source Community where anyone interested in contributing and add
 
 # Community Support
 
-> Raise an issue to join the **Open Source Community** GitHub Community.
+> Raise an issue to join the **OpenSourceHub** GitHub Community.
 
-### How can I join the OpenSourceCommunity GitHub community?
+### How can I join the OpenSourceHub GitHub community?
 
 > 1. Go to the issues tab [here](https://github.com/opensourcecommunity-hub/join-the-community/issues/).
 >   
