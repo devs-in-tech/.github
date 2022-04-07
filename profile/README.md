@@ -18,7 +18,7 @@ Welcome to OpenSourceHub where anyone interested in contributing and adding valu
  
  <p align="center"> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
 
-<h2 align="center"> This is a place welcome to all!🥳</h2>
+<h2 align="center"> This is a place to welcome all!🥳</h2>
 </div>
 
 <p align="center">
