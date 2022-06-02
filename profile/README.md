@@ -7,7 +7,7 @@
     
 <h1>OpenSourceHub</h1>
 
-<!-- <h2>Collaboration 1st, Code 2nd! </h2> -->
+<h3><em>Opportunities are endless!! You just have to come up on the stage and do some hard work to grab it!!💪</em></h3>
 
  <img height="300" src="https://user-images.githubusercontent.com/79099734/153739848-7b930dc8-4429-4137-a416-c65ae95ede9c.png">
  
