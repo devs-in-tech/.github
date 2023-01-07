@@ -9,10 +9,7 @@
 
 <h3><em>Opportunities are endless!! You just have to come up on the stage and do some hard work to grab it!!💪</em></h3>
 
- <img height="300" src="https://user-images.githubusercontent.com/79099734/211165525-2ab378ed-1b63-4478-aad3-ad87348d7f4a.png">
- 
-<!-- <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" /> -->
-
+ <img height="300" src="https://user-images.githubusercontent.com/79099734/211166582-3d039c79-2b39-4243-8979-83a0e13c7dfa.png">
 
 Welcome to DevsInTech where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
  
