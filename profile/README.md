@@ -5,16 +5,16 @@
 
 
     
-<h1>OpenSourceHub</h1>
+<h1>DevsInTech</h1>
 
 <h3><em>Opportunities are endless!! You just have to come up on the stage and do some hard work to grab it!!💪</em></h3>
 
- <img height="300" src="https://user-images.githubusercontent.com/79099734/153739848-7b930dc8-4429-4137-a416-c65ae95ede9c.png">
+ <img height="300" src="https://user-images.githubusercontent.com/79099734/211165525-2ab378ed-1b63-4478-aad3-ad87348d7f4a.png">
  
 <!-- <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" /> -->
 
 
-Welcome to OpenSourceHub where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
+Welcome to DevsInTech where anyone interested in contributing and adding values to the Open Source repos and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
  
  <p align="center"> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
 
@@ -34,7 +34,7 @@ Welcome to OpenSourceHub where anyone interested in contributing and adding valu
 <a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> -->
-<a href="https://github.com/opensourcecommunity-hub" style="text-decoration:none">
+<a href="https://github.com/devs-in-tech" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <!-- <a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
@@ -50,11 +50,11 @@ Welcome to OpenSourceHub where anyone interested in contributing and adding valu
 
 # Community Support
 
-> Raise an issue to join the **OpenSourceHub** GitHub Community.
+> Raise an issue to join the **DevsInTech** GitHub Community.
 
-### How can I join the OpenSourceHub GitHub community?
+### How can I join the DevsInTech GitHub community?
 
-> 1. Go to the issues tab [here](https://github.com/opensourcecommunity-hub/join-the-community/issues/).
+> 1. Go to the issues tab [here](https://github.com/devs-in-tech/join-the-community/issues/).
 >   
 > 2. Create a new issue.
 > 
@@ -64,9 +64,9 @@ Welcome to OpenSourceHub where anyone interested in contributing and adding valu
 
 ### How do I set the membership to public?
 
-> 1. Navigate to our GitHub community page: https://github.com/opensourcecommunity-hub
+> 1. Navigate to our GitHub community page: https://github.com/devs-in-tech
 >   
-> 2. Click on the people header or click [here](https://github.com/orgs/opensourcecommunity-hub/people) : <br>
+> 2. Click on the people header or click [here](https://github.com/orgs/devs-in-tech/people) : <br>
 >   
 > <img width="222" alt="people" src="https://user-images.githubusercontent.com/79099734/154269777-92c063af-c60f-4104-81c0-0e4880644127.png"> <br>
 >   
@@ -83,4 +83,4 @@ Welcome to OpenSourceHub where anyone interested in contributing and adding valu
 > Join our Discord community [here](https://discord.com/invite/g7FmxB9uZp)   
 > Subscribe to our YouTube channel [here](https://www.youtube.com/channel/UCsuzc8lqAbgUYo4yzpjtfSw?sub_confirmation=1)
 
-<a href="https://discord.com/invite/g7FmxB9uZp">👋 Join our Discord community <strong>Susmita's Coding Community</strong> </a>
+<a href="https://discord.com/invite/g7FmxB9uZp">👋 Join our Discord community <strong>DevsInTech</strong> </a>
