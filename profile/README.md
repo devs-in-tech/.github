@@ -19,7 +19,7 @@ Welcome to DevsInTech where anyone interested in contributing and adding values 
 </div>
 
 <p align="center">
-<a href="mailto:deysusmita883@gmail.com" style="text-decoration:none">
+<a href="mailto:devsintechcommunity@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   <a href="https://discord.com/invite/g7FmxB9uZp" style="text-decoration:none">
@@ -27,10 +27,10 @@ Welcome to DevsInTech where anyone interested in contributing and adding values 
 </a>
 <!-- <a href="http://designandcode.netlify.app/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> -->
+<a href="https://www.linkedin.com/in/devsintech-community-572073262/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
 <a href="https://github.com/devs-in-tech" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
