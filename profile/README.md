@@ -28,11 +28,14 @@ Welcome to DevsInTech where anyone interested in contributing and adding values 
 <!-- <a href="http://designandcode.netlify.app/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
 </a> -->
-<a href="https://www.linkedin.com/in/devsintech-community-572073262/" style="text-decoration:none">
+<a href="https://www.linkedin.com/company/devsintech-community/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <a href="https://github.com/devs-in-tech" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+ <a href="https://twitter.com/devs_in_tech" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <!-- <a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
